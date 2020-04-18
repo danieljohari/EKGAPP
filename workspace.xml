@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a5c995d-6558-4c04-b42f-b1078bc20468" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ekgMålinger.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUISaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Limit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TextSaver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BPMSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BPMSim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EKGAPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EKGAPP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EkgGUIController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EkgGUIController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SPO2Sim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SPO2Sim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TempSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TempSim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ekgGUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ekgGUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BPMSim.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BPMSim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EKGAPP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EKGAPP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EkgGUIController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EkgGUIController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EkgGUIController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EkgGUIController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EkgGUIController$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EkgGUIController$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EkgGUIController$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EkgGUIController$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EkgGUIController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EkgGUIController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SPO2Sim.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SPO2Sim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TempSim.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TempSim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ekgGUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ekgGUI.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YfGrsgqQPSLaS46PDizPWHrK0c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IT projekter/it1projekt/src/Sensor1.java" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EKGAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EKGAPP" />
+      <module name="EKGAPP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EKGAPP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a5c995d-6558-4c04-b42f-b1078bc20468" name="Default Changelist" comment="" />
+      <created>1583326436404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583326436404</updated>
+      <workItem from="1583326439612" duration="435000" />
+      <workItem from="1583326915560" duration="401000" />
+      <workItem from="1583327383869" duration="10102000" />
+      <workItem from="1583508967766" duration="1392000" />
+      <workItem from="1583514958754" duration="4539000" />
+      <workItem from="1583590498340" duration="55000" />
+      <workItem from="1583590559928" duration="197000" />
+      <workItem from="1583590764118" duration="205000" />
+      <workItem from="1583591009310" duration="10908000" />
+      <workItem from="1583688724036" duration="14491000" />
+      <workItem from="1584290516254" duration="1740000" />
+      <workItem from="1584608406709" duration="3111000" />
+      <workItem from="1587108937616" duration="714000" />
+      <workItem from="1587109913142" duration="12166000" />
+    </task>
+    <task id="LOCAL-00001" summary="EKG APP">
+      <created>1583601142684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583601142684</updated>
+    </task>
+    <task id="LOCAL-00002" summary="EKG APP NÆSTEN FÆRDIG MANGLER KNAPPER OG FUNKTIONER">
+      <created>1583601207196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583601207196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="EKG APP" />
+    <MESSAGE value="EKG APP NÆSTEN FÆRDIG MANGLER KNAPPER OG FUNKTIONER" />
+    <option name="LAST_COMMIT_MESSAGE" value="EKG APP NÆSTEN FÆRDIG MANGLER KNAPPER OG FUNKTIONER" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1587205332657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587205332657" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1587116940990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587116940990" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1587206437079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587206437079" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1587206437079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587206437079" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1587206437078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587206437078" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1587206437079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587206437079" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1587203002102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587203002102" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1587203002102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587203002102" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1587203002102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587203002102" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1587203002102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587203002102" />
+    <state x="475" y="169" key="refactoring.ChangeSignatureDialog" timestamp="1587205779038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="169" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587205779038" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587116794884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587116794884" />
+  </component>
+</project>
